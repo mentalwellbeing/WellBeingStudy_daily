@@ -12,11 +12,13 @@
     "addProperties": [
       {
         "variableName": "meditation_1",
-        "isAbout": "items/meditation_1"
+        "isAbout": "items/meditation_1",
+        "isVis": false
       },
       {
         "variableName": "meditation_2",
-        "isAbout": "items/meditation_2"
+        "isAbout": "items/meditation_2",
+        "isVis": true
       }
     ],
     "order": [
