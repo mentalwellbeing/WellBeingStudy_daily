@@ -12,6 +12,6 @@
     },
     "responseOptions": {
       "valueType": "xsd:string",
-      "maxLength": 5000
+      "maxLength": 50
     }
 }
