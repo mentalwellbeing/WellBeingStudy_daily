@@ -8,6 +8,6 @@
     "version": "0.0.1",
     "question": "Enjoy today's meditation <br><br> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xrGsuj9-jSM?modestbranding=1&autohide=1&showinfo=0controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; gyroscope\"></iframe>",
     "ui": {
-          "inputType": "save"
+          "inputType": "static"
         }
 }
