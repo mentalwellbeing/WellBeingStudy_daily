@@ -46,7 +46,7 @@
                 "isAbout": "../activities/daily_activity/daily_activity_schema",
                 "variableName": "daily_activity",
                 "prefLabel": {
-                    "en": "Short Daily acitivity"
+                    "en": "Short Daily activity"
                 }
             },
             {

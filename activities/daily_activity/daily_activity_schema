@@ -23,6 +23,9 @@
       "items/meditation_1",
       "items/meditation_2"
     ],
-    "shuffle": false
+    "shuffle": false,
+    "allow": [
+      "reproschema:Skipped"
+    ]
   }
 }
