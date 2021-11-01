@@ -13,10 +13,15 @@
       {
         "variableName": "meditation_1",
         "isAbout": "items/meditation_1"
+      },
+      {
+        "variableName": "meditation_2",
+        "isAbout": "items/meditation_2"
       }
     ],
     "order": [
-      "items/meditation_1"
+      "items/meditation_1",
+      "items/meditation_2"
     ],
     "shuffle": false
   }
