@@ -20,7 +20,7 @@
             {
                 "variableName": "free_speech_general_mood",
                 "isAbout": "activity_path:VoiceTask/items/free_speech_general_mood"
-            },
+            }
         ],
         "order": [
             "activity_path:LAS/LAS_schema",
