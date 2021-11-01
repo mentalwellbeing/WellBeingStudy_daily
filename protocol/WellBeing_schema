@@ -1,0 +1,79 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/6acdca936033f6a4132e183fdb46c61f12f25578/activities/"
+        }
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "WellBeing_schema",
+    "prefLabel": {
+        "en": "Wellbeing challenge"
+        },
+    "description": "Wellbeing challenge",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "landingPage": {
+            "@id": "README-en.md",
+            "inLanguage": "en"
+    },
+    "ui": {
+        "order": [
+            "../activities/audio_check/audio_check_schema",
+            "../activities/pre/pre_schema",
+            "../activities/daily_activity/daily_activity_schema",
+            "../activities/post/post_schema",
+            "../activities/feedback/feedback_schema",
+            "activity_path:ThankYou/ThankYou_schema"
+        ],
+        "shuffle": false,
+        "addProperties": [
+            {
+                "isAbout": "../activities/audio_check/audio_check_schema",
+                "variableName": "audio_check",
+                "prefLabel": {
+                    "en": "Audio check"
+                }
+            },
+            {
+                "isAbout": "../activities/pre/pre_schema",
+                "variableName": "pre",
+                "prefLabel": {
+                    "en": "Quick pre-assessment"
+                }
+            },
+            {
+                "isAbout": "../activities/daily_activity/daily_activity_schema",
+                "variableName": "daily_activity",
+                "prefLabel": {
+                    "en": "Short Daily acitivity"
+                }
+            },
+            {
+                "isAbout": "../activities/post/post_schema",
+                "variableName": "post",
+                "prefLabel": {
+                    "en": "Quick post-assessment"
+                }
+            },
+            {
+                "isAbout": "../activities/feedback/feedback_schema",
+                "variableName": "feedback",
+                "prefLabel": {
+                    "en": "Feedback"
+                }
+            },
+            {
+                "isAbout": "activity_path:ThankYou/ThankYou_schema",
+                "variableName": "ThankYou_schema",
+                "prefLabel": {
+                    "en": "Submit responses"
+                }
+            }
+        ],
+        "allow": [
+            "reproschema:AutoAdvance",
+            "reproschema:AllowExport"
+        ]
+    }
+}

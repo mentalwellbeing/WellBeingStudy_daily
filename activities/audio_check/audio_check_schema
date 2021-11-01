@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "voice_tasks": "https://raw.githubusercontent.com/danielmlow/reproschema-library/d13b45b7f256903b5424158578cc79b4012b4a56/activities/VoiceTask/items/"
+        }
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "audio_check_schema",
+    "prefLabel": "Audio check",
+    "description": "Audio check",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "audio_check",
+                "isAbout": "voice_tasks:audio_check"
+            }
+        ],
+        "order": [
+            "voice_tasks:audio_check"
+        ],
+        "shuffle": false
+    }
+}

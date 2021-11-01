@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "improve_like_dislike",
+    "prefLabel": "Feedback improve",
+    "description": "Feedback improve like and dislike",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Is there anything about the study you would improve? Which parts did you like and which parts did you dislike? (or you can skip this item)",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 5000
+    }
+}

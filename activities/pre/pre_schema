@@ -1,0 +1,31 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+        {
+            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/79df67ab33369e596419734d1c2c53dcf2c4e528/activities/"
+        }
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "pre_schema",
+    "prefLabel": "pre_schema",
+    "description": "pre_schema",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "LAS",
+                "isAbout": "activity_path:LAS/LAS_schema"
+            },
+            {
+                "variableName": "free_speech_general_mood",
+                "isAbout": "activity_path:VoiceTask/items/free_speech_general_mood"
+            },
+        ],
+        "order": [
+            "activity_path:LAS/LAS_schema",
+            "activity_path:VoiceTask/items/free_speech_general_mood"
+        ],
+        "shuffle": true
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic"
+  ],
+  "@type": "reproschema:Activity",
+  "@id": "daily_activity_schem",
+  "prefLabel": "daily_activity_schem",
+  "description": "daily_activity_schem",
+  "schemaVersion": "1.0.0-rc4",
+  "version": "0.0.1",
+  "ui": {
+    "addProperties": [
+      {
+        "variableName": "meditation_1",
+        "isAbout": "items/meditation_1"
+      }
+    ],
+    "order": [
+      "items/meditation_1"
+    ],
+    "shuffle": false
+  }
+}

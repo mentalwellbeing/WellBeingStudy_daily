@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "feedback_schema",
+    "prefLabel": "feedback",
+    "description": "Feedback on the study",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+	        {
+                "variableName": "improve_like_dislike",
+                "isAbout": "items/improve_like_dislike"
+            }
+        ],
+        "order": [
+            "items/improve_like_dislike"
+        ],
+        "shuffle": false,
+        "allow": [
+            "reproschema:Skipped"
+            ]
+    }
+}
