@@ -6,12 +6,26 @@
     "description": "meditation_2",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Enjoy today's meditation <br><br> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xrGsuj9-jSM?modestbranding=1&autohide=1&showinfo=0controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; gyroscope\"></iframe>",
+    "preamble": "Enjoy today's meditation <br>"
+    "question": "",
     "ui": {
-      "inputType": "text"
+        "inputType": "textarea"
     },
     "responseOptions": {
-      "valueType": "xsd:string",
-      "maxLength": 50
+        "valueType": "xsd:integer",
+        "minValue": 1,
+        "maxValue": 2,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "I listened to the entire recording",
+                "value": 1
+            },
+            {
+                "name": "I listened to part of the recording",
+                "value": 2
+            }
+        ]
     }
+
 }

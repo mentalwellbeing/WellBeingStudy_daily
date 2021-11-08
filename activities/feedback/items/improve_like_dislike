@@ -6,7 +6,7 @@
     "description": "Feedback improve like and dislike",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Is there anything about the study you would improve? Which parts did you like and which parts did you dislike? (or you can skip this item)",
+    "question": "Any feedback? Is there anything about the study you would improve? (or you can skip this item)",
     "ui": {
         "inputType": "textarea"
     },
