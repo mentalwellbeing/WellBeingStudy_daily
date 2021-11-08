@@ -6,10 +6,10 @@
     "description": "journaling_1",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "preamble": "Best possible self for relatioships",
+    "preamble": "Journaling exercise 1: best possible self for relationships",
     "question": "Take a moment to imagine your life in the future, and focus specifically on your relationships during the next 3 years. What is the best possible romantic, social, and family life you can imagine? This could involve, for example, having a supportive partner, good relationships with your children or parents, and a close group of friends.<br><br> For the next 10 minutes, write continuously about what you imagined about these best possible future relationships.<br><br> This exercise is most useful when it is very specific—if you think about having a better relationship with your parents, for instance, describe exactly what would be different in the ways you relate to each other; if you think about having a partner or new friend, describe how they interact with you, what you might do together, and so on. Describe what steps you could take to achieve this.<br><br> Be as creative and imaginative as you want. Imagine anything was possible and you would achieve anything you set your mind to.<br>",
     "ui": {
-        "inputType": "text"
+        "inputType": "textarea"
     },
     "responseOptions": {
         "valueType": "xsd:string",
