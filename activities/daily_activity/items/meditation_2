@@ -6,7 +6,7 @@
     "description": "meditation_2",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "preamble": "Enjoy today's meditation <br>"
+    "preamble": "Meditation 2: Enjoy today's meditation <br>"
     "question": "",
     "ui": {
         "inputType": "textarea"

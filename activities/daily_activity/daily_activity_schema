@@ -13,21 +13,24 @@
       {
         "variableName": "meditation_1",
         "isAbout": "items/meditation_1",
-        "isVis": false
+        "isVis": "day === '1'"
       },
       {
         "variableName": "meditation_2",
         "isAbout": "items/meditation_2",
         "isVis": true
+      },
+      {
+        "variableName": "journaling_1",
+        "isAbout": "items/journaling_1",
+        "isVis": "day === '1'"
       }
     ],
     "order": [
       "items/meditation_1",
-      "items/meditation_2"
+      "items/meditation_2",
+      "items/journaling_1"
     ],
-    "shuffle": false,
-    "allow": [
-      "reproschema:Skipped"
-    ]
+    "shuffle": false
   }
 }
