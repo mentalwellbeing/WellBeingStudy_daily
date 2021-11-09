@@ -6,7 +6,7 @@
     "description": "journaling_evidence_4",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>Participants who wrote a self-compassionate letter every day for a week reported lower symptoms of depression and greater happiness three months later than they had beforehand; they also seemed happier and less depressed three months later than participants who had written about an early memory every day for a week. Their increase in happiness persisted six months later. [Shapira, L. B., & Mongrain, M. (2010). The benefits of self-compassion and optimism exercises for individuals vulnerable to depression. Journal of Positive Psychology, 5, 377-389.]<br>",
+    "question": "Evidence that today's journaling session works:<br>Participants were more likely to help a fallen jogger when the jogger was a fellow fan of the same soccer team than when the jogger was a fan of a rival team (as indicated by their shirt). But when participants were reminded of a shared identity with the fallen rival (being a soccer fan), they were more likely to help than they were to help a non-fan [Levine, M., Prosser, A., Evans, D., & Reicher, S. (2005). Identity and emergency intervention: How social group membership and inclusiveness of group boundaries shape helping behavior. Personality and Social Psychology Bulletin, 31(4), 443-453.]\r<br>",
     "ui": {
         "inputType": "radio"
     },

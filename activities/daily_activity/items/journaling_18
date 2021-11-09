@@ -6,7 +6,7 @@
     "description": "journaling_18",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Write how you would be like if you were more extraverted. Please make a list of 5 specific ideas for how and when you will incorporate these types of behaviors into your daily life (meetings, meals, social events). For example, “When my friends or relatives are discussing something important to me, I will express my opinion. I will speak confidently but also with an open mind to hear other people's opinions.”",
+    "question": "**Finding silver linings**<br>To start, list five things that make you feel like your life is enjoyable, enriching, or worthwhile at this moment. These things can be as general as “being in good health” or as specific as “drinking a delicious cup of coffee this morning.” The purpose of this first step is to help you shift into a positive state of mind about your life in general.<br>Next, in a few sentences, briefly describe the most recent time when something didn’t go your way, or when you felt frustrated, irritated, or upset.<br>Then, list three things that can help you see the bright side of this situation. For example, perhaps you woke up late this morning. Three ways to look on the bright side of this situation might be:<br>1. Even though you woke up late, you still got enough done similar to other days. <br>2. You’re fortunate to have some flexibility and for it not to have terrible consequences. <br>3. Ten years from now, you likely won’t remember what happened this morning.<br>4. You got to reflect on your sleeping patterns to try to think about how to improve them.<br>",
     "ui": {
         "inputType": "textarea"
     },

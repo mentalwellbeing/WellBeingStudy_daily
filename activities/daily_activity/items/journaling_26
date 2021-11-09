@@ -6,7 +6,7 @@
     "description": "journaling_26",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "A simple, effective way to work through an emotional challenge:<br>Write down your emotions and thoughts about an emotional challenge that has been affecting your life. In your writing, really let go and explore the event and how it has affected you. You might tie this experience to your childhood, your relationship with your parents, people you have loved or love now, or even your career. <br><br>Write continuously for up to 10 minutes. Deal only with events or situations you can handle now—that is, don’t write about a trauma too soon after it has happened if it feels too overwhelming.",
+    "question": "**Best Possible Health**<br>Take a moment to imagine your life in the future. What is the best possible life you can imagine regarding your body and health in the next 3 years? Describe what exercises or sports you could start or advance in and any accomplishments you would achieve if anything was possible. Describe what you would eat to nourish yourself and how you would feel. For the next 10 minutes, write continuously about what you imagine this best possible future to be. <br><br>This exercise is most useful when it is very specific—describe specific exercise routines, sports, health, nutrition, accomplishments, and how you would act and feel. <br><br>Be as creative and imaginative as you want. Imagine anything was possible and you would achieve anything you set your mind to.",
     "ui": {
         "inputType": "textarea"
     },

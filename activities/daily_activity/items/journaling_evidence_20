@@ -6,7 +6,7 @@
     "description": "journaling_evidence_20",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>Rationally questioning our negative thoughts can decrease the thought's discomfort and increase the willingness to have the thought [Larsson et al. (2016). Using brief cognitive restructuring and cognitive defusion techniques to cope with negative thoughts. Behavior Modification, 40(3), 452-482].",
+    "question": "Evidence that today's journaling session works:<br>There are benefits of self-affirmation on defensiveness, stress, and performance and a model has been proposed to explain how it works: by increasing our psychological resources, broadening our perspective, and keeping threats separate from our sense of self [Sherman, D. K. (2013). Self-affirmation: Understanding the effects. Social and Personality Psychology Compass, 7(11), 834-45.] <br>",
     "ui": {
         "inputType": "radio"
     },

@@ -6,7 +6,7 @@
     "description": "journaling_evidence_10",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>People tried using a personal strength each day for one week. Compared with those who didn’t try to use a strength—instead they wrote about early memories every day for a week—those who identified and used their strengths reported an increase in happiness and a decrease in symptoms of depression immediately after the one-week experiment, and those changes persisted six months later [Seligman, M. E., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. American Psychologist, 60(5), 410-421.]<br>",
+    "question": "Evidence that today's journaling session works:<br>People who completed the Best Possible Self exercise daily for two weeks showed increases in positive emotions right after the two-week study ended. Those who kept up with the exercise even after the study was over continued to show increases in positive mood one month later [Sheldon, K. M., & Lyubomirsky, S. (2006). How to increase and sustain positive emotion: The effects of expressing gratitude and visualizing best possible selves. Journal of Positive Psychology, 1(2), 73-82.]<br>",
     "ui": {
         "inputType": "radio"
     },

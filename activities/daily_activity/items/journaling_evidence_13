@@ -6,7 +6,7 @@
     "description": "journaling_evidence_13",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>Participants who recalled a time when they gave emotional support to a friend or who gave actual support (in writing) to another person reported greater self-compassion for themselves around a problem with which they were struggling, compared with participants who didn’t think about supporting a friend [Breines, J., & Chen, S. (2013). Activating the inner caregiver: The role of support-giving schemas in increasing state self-compassion. Journal of Experimental Social Psychology, 49, 58-64].<br>",
+    "question": "Evidence that today's journaling session works:<br>Participants who completed this Goal Visualization exercise (along with the Silver Linings practice) daily for three weeks reported greater engagement in life and less dysfunctional thinking (e.g., believing that small failures make you a failure as a person) at the end of the study than they had at the start of it. Participants who had a tendency to be pessimistic especially benefited from the exercises and showed fewer depressive symptoms afterward [Sergeant, S., & Mongrain, M. (2014). An online optimism intervention reduces depression in pessimistic individuals. Journal of Consulting and Clinical Psychology, 82(2), 263-274].<br><br>",
     "ui": {
         "inputType": "radio"
     },

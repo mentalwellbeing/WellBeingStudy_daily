@@ -6,7 +6,7 @@
     "description": "journaling_evidence_12",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>Some study participants reflected on a time when they felt a strong bond with someone else; other participants wrote about a time when they felt especially competent or autonomous. Compared with those in the other groups, the participants who reflected on their experience of closeness reported greater feelings of connectedness and concern for others. What’s more, they also reported a stronger intention to carry out a variety of altruistic behaviors over the next six weeks, including giving money to charity and going out of their way to help a stranger in need [Pavey, L., Greitemeyer, T., & Sparks, P. (2011). Highlighting relatedness promotes prosocial motives and behavior. Personality and Social Psychology Bulletin, 37(7), 905-917].<br>",
+    "question": "Evidence that today's journaling session works:<br>Participants who recalled a time when they gave emotional support to a friend or who gave actual support (in writing) to another person reported greater self-compassion for themselves around a problem with which they were struggling, compared with participants who didn’t think about supporting a friend [Breines, J., & Chen, S. (2013). Activating the inner caregiver: The role of support-giving schemas in increasing state self-compassion. Journal of Experimental Social Psychology, 49, 58-64].<br>",
     "ui": {
         "inputType": "radio"
     },

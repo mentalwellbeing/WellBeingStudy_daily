@@ -6,7 +6,7 @@
     "description": "journaling_evidence_17",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Evidence that today's journaling session works:<br>Rationally questioning our negative thoughts can decrease the thought's discomfort and increase the willingness to have the thought [Larsson et al. (2016). Using brief cognitive restructuring and cognitive defusion techniques to cope with negative thoughts. Behavior Modification, 40(3), 452-482].",
+    "question": "Evidence that today's journaling session works:<br>Evidence that it works: Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow (feelings of being in the zone, fully immersed, energized) [Jacques-Hamilton (2018). Journal of Experimental Psychology; Margolis & Lyubomirsky (2020). Journal of Experimental Psychology: General].",
     "ui": {
         "inputType": "radio"
     },

@@ -6,7 +6,7 @@
     "description": "journaling_24",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Think back to a time when you felt a sense of awe regarding something you witnessed or experienced. This sense of awe or vastness can be physical (e.g., a movie or a panoramic view from a mountaintop) or psychological (e.g., a brilliant idea or uplifting experience) or social (a great conversation or act of kindness). People may experience awe when they are in the presence of a beautiful natural landscape or work of art, when they watch a moving speech or performance, when they witness an act of great altruism, or when they have a spiritual or religious experience.  <br><br>Try to think of the most recent experience you’ve had that involved the feeling of awe. Once you identify something, describe it in writing with as much detail as possible for up to 10 minutes.",
+    "question": "**Feeling Supported**<br>1. Think of the person:<br>you most like to spend time with<br>that are hardest to be away from<br>you want to talk to when you are worried about something<br>you turn to when you are feeling down<br>you know will always be there for you<br>you want to share your successes with<br>(Some of these might be the same person, of course.) <br><br>2. Write down six positive qualities that are common to some or all of these people—qualities that they strongly embody. <br><br>3. Next, recall and visualize a specific situation when you were feeling distressed or worried, and one of these people comforted and helped you. Write a brief description of that situation, the way you felt during it and how you felt about the other person.",
     "ui": {
         "inputType": "textarea"
     },
