@@ -6,7 +6,7 @@
     "description": "journaling_evidence_26",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Compared with a control group that wrote about superficial topics, participants who wrote about traumatic experiences for four consecutive days reported greater happiness three months later, visited the doctor less than usual during a six-week period following the writing exercise, and seemed to have a healthier immune system [Pennebaker, J.W., Kiecolt-Glaser, J., & Glaser, R. (1988). Disclosure of traumas and immune function: Health implications for psychotherapy. Journal of Consulting and Clinical Psychology, 56, 239-245].",
+    "question": "Evidence that today's journaling session works:<br>Compared with a control group that wrote about superficial topics, participants who wrote about traumatic experiences for four consecutive days reported greater happiness three months later, visited the doctor less than usual during a six-week period following the writing exercise, and seemed to have a healthier immune system [Pennebaker, J.W., Kiecolt-Glaser, J., & Glaser, R. (1988). Disclosure of traumas and immune function: Health implications for psychotherapy. Journal of Consulting and Clinical Psychology, 56, 239-245].",
     "ui": {
         "inputType": "radio"
     },

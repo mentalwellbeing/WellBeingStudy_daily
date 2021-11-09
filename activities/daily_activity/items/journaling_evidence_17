@@ -6,7 +6,7 @@
     "description": "journaling_evidence_17",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Rationally questioning our negative thoughts can decrease the thought's discomfort and increase the willingness to have the thought [Larsson et al. (2016). Using brief cognitive restructuring and cognitive defusion techniques to cope with negative thoughts. Behavior Modification, 40(3), 452-482].",
+    "question": "Evidence that today's journaling session works:<br>Rationally questioning our negative thoughts can decrease the thought's discomfort and increase the willingness to have the thought [Larsson et al. (2016). Using brief cognitive restructuring and cognitive defusion techniques to cope with negative thoughts. Behavior Modification, 40(3), 452-482].",
     "ui": {
         "inputType": "radio"
     },

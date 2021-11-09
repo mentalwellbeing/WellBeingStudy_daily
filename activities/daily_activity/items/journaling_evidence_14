@@ -6,7 +6,7 @@
     "description": "journaling_evidence_14",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Participants who completed this Goal Visualization exercise (along with the Silver Linings practice) daily for three weeks reported greater engagement in life and less dysfunctional thinking (e.g., believing that small failures make you a failure as a person) at the end of the study than they had at the start of it. Participants who had a tendency to be pessimistic especially benefited from the exercises and showed fewer depressive symptoms afterward [Sergeant, S., & Mongrain, M. (2014). An online optimism intervention reduces depression in pessimistic individuals. Journal of Consulting and Clinical Psychology, 82(2), 263-274].<br><br>",
+    "question": "Evidence that today's journaling session works:<br>Participants who completed this Goal Visualization exercise (along with the Silver Linings practice) daily for three weeks reported greater engagement in life and less dysfunctional thinking (e.g., believing that small failures make you a failure as a person) at the end of the study than they had at the start of it. Participants who had a tendency to be pessimistic especially benefited from the exercises and showed fewer depressive symptoms afterward [Sergeant, S., & Mongrain, M. (2014). An online optimism intervention reduces depression in pessimistic individuals. Journal of Consulting and Clinical Psychology, 82(2), 263-274].<br><br>",
     "ui": {
         "inputType": "radio"
     },

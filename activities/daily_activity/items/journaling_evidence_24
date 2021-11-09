@@ -6,7 +6,7 @@
     "description": "journaling_evidence_24",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "In three experiments, participants who were induced to feel awe, compared with other emotions, felt that they had more time available, were less impatient, were more willing to volunteer their time to help others, preferred experiences over material products, and reported greater life satisfaction [Rudd, M., Vohs, K. D., & Aaker, J. (2012). Awe expands people’s perception of time, alters decision making, and enhances well-being. Psychological Science, 23(10), 1130-1136.]",
+    "question": "Evidence that today's journaling session works:<br>In three experiments, participants who were induced to feel awe, compared with other emotions, felt that they had more time available, were less impatient, were more willing to volunteer their time to help others, preferred experiences over material products, and reported greater life satisfaction [Rudd, M., Vohs, K. D., & Aaker, J. (2012). Awe expands people’s perception of time, alters decision making, and enhances well-being. Psychological Science, 23(10), 1130-1136.]",
     "ui": {
         "inputType": "radio"
     },

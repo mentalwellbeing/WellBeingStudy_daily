@@ -6,7 +6,7 @@
     "description": "journaling_evidence_15",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "In this study, participants who journaled about Three Funny Things every evening for a week decreased in depression immediately afterward, and increased in happiness up to six months later, compared to a control group who journaled about their early memories [Wellenzohn, S., Proyer, R. T., & Ruch, W. (2016). Humor-based online positive psychology interventions: A randomized placebo-controlled long-term trial. Journal of Positive Psychology, 11(6), 584-94.]<br><br>",
+    "question": "Evidence that today's journaling session works:<br>In this study, participants who journaled about Three Funny Things every evening for a week decreased in depression immediately afterward, and increased in happiness up to six months later, compared to a control group who journaled about their early memories [Wellenzohn, S., Proyer, R. T., & Ruch, W. (2016). Humor-based online positive psychology interventions: A randomized placebo-controlled long-term trial. Journal of Positive Psychology, 11(6), 584-94.]<br><br>",
     "ui": {
         "inputType": "radio"
     },

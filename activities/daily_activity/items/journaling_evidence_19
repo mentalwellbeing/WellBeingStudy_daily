@@ -6,7 +6,7 @@
     "description": "journaling_evidence_19",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Participants who completed a set of optimism exercises daily for three weeks reported greater engagement in life and less dysfunctional thinking (e.g., believing that small failures make one a failure as a person) at the end of the study than they had at the start of it. Participants who had a tendency to be pessimistic especially benefited from the exercise and showed fewer depressive symptoms afterward. However, these effects seemed to wear off two months later, suggesting the need to repeat this practice periodically. [Sergeant, S., & Mongrain, M. (2014). An online optimism intervention reduces depression in pessimistic individuals. Journal of Consulting and Clinical Psychology, 82(2), 263-274.]<br>",
+    "question": "Evidence that today's journaling session works:<br>Participants who completed a set of optimism exercises daily for three weeks reported greater engagement in life and less dysfunctional thinking (e.g., believing that small failures make one a failure as a person) at the end of the study than they had at the start of it. Participants who had a tendency to be pessimistic especially benefited from the exercise and showed fewer depressive symptoms afterward. However, these effects seemed to wear off two months later, suggesting the need to repeat this practice periodically. [Sergeant, S., & Mongrain, M. (2014). An online optimism intervention reduces depression in pessimistic individuals. Journal of Consulting and Clinical Psychology, 82(2), 263-274.]<br>",
     "ui": {
         "inputType": "radio"
     },
