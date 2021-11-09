@@ -6,7 +6,7 @@
     "description": "journaling_9",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "**Use Your Strengths**<br>Take a moment to think about one of your personal strengths—for instance, creativity, perseverance, kindness, modesty, or curiosity. Consider how you could use this strength today in a new and different way. For example, if you choose the personal strength of perseverance, you might write down a list of tasks that you have found challenging recently, then describe how you would tackle each one of them. Or if you choose curiosity, you might describe how you would attempt an activity that you’ve never tried before.<br><br>Describe in writing the personal strength you plan to use today and how you are going to use it. Then, go ahead and do it—act on your strength as frequently as possible throughout the day.",
+    "question": "<b>Use Your Strengths</b><br>Take a moment to think about one of your personal strengths—for instance, creativity, perseverance, kindness, modesty, or curiosity. Consider how you could use this strength today in a new and different way. For example, if you choose the personal strength of perseverance, you might write down a list of tasks that you have found challenging recently, then describe how you would tackle each one of them. Or if you choose curiosity, you might describe how you would attempt an activity that you’ve never tried before.<br><br>Describe in writing the personal strength you plan to use today and how you are going to use it. Then, go ahead and do it—act on your strength as frequently as possible throughout the day.",
     "ui": {
         "inputType": "textarea"
     },

@@ -6,7 +6,7 @@
     "description": "journaling_11",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "**Feeling Connected**<br>Try to think of a time when you felt a strong bond with someone in your life. Write about a specific example of an experience you had with this person where you felt especially close and connected to them. This could be a time you had a meaningful conversation, gave or received support, experienced a great loss or success together, or witnessed an historic moment together.<br><br>Once you’ve thought of a specific example, spend up to 10 minutes minutes writing about what happened. In particular, consider the ways in which this experience made you feel close and connected to the other person and what you learned. ",
+    "question": "<b>Feeling Connected</b><br>Try to think of a time when you felt a strong bond with someone in your life. Write about a specific example of an experience you had with this person where you felt especially close and connected to them. This could be a time you had a meaningful conversation, gave or received support, experienced a great loss or success together, or witnessed an historic moment together.<br><br>Once you’ve thought of a specific example, spend up to 10 minutes minutes writing about what happened. In particular, consider the ways in which this experience made you feel close and connected to the other person and what you learned. ",
     "ui": {
         "inputType": "textarea"
     },

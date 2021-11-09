@@ -6,7 +6,7 @@
     "description": "journaling_17",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "**Being more extraverted**<br>Write how you would be like if you were more extraverted. Please make a list of 5 specific ideas for how and when you will incorporate these types of behaviors into your daily life (meetings, meals, social events). For example, “When my friends or relatives are discussing something important to me, I will express my opinion. I will speak confidently but also with an open mind to hear other people's opinions.”",
+    "question": "<b>Being more extraverted</b><br>Write how you would be like if you were more extraverted. Please make a list of 5 specific ideas for how and when you will incorporate these types of behaviors into your daily life (meetings, meals, social events). For example, “When my friends or relatives are discussing something important to me, I will express my opinion. I will speak confidently but also with an open mind to hear other people's opinions.”",
     "ui": {
         "inputType": "textarea"
     },

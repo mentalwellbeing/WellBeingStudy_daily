@@ -6,7 +6,7 @@
     "description": "journaling_25",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "**Expressive Writing**<br>A simple, effective way to work through an emotional challenge:<br>Write down your emotions and thoughts about an emotional challenge that has been affecting your life. In your writing, really let go and explore the event and how it has affected you. You might tie this experience to your childhood, your relationship with your parents, people you have loved or love now, or even your career. <br><br>Write continuously for up to 10 minutes. Deal only with events or situations you can handle now—that is, don’t write about a trauma too soon after it has happened if it feels too overwhelming.",
+    "question": "<b>Expressive Writing</b><br>A simple, effective way to work through an emotional challenge:<br>Write down your emotions and thoughts about an emotional challenge that has been affecting your life. In your writing, really let go and explore the event and how it has affected you. You might tie this experience to your childhood, your relationship with your parents, people you have loved or love now, or even your career. <br><br>Write continuously for up to 10 minutes. Deal only with events or situations you can handle now—that is, don’t write about a trauma too soon after it has happened if it feels too overwhelming.",
     "ui": {
         "inputType": "textarea"
     },
