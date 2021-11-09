@@ -45,8 +45,17 @@
             {
                 "isAbout": "../activities/daily_activity/daily_activity_schema",
                 "variableName": "daily_activity",
+                "isVis": "branch === 'journaling'"
                 "prefLabel": {
                     "en": "Short Daily activity"
+                }
+            },
+            {
+                "isAbout": "../activities/daily_activity_meditation/daily_activity_meditation_schema",
+                "variableName": "daily_activity_meditation",
+                "isVis": "branch === 'meditation'"
+                "prefLabel": {
+                    "en": "Short Daily Meditation"
                 }
             },
             {

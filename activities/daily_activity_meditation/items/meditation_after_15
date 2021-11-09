@@ -1,0 +1,29 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_15",
+    "prefLabel": "meditation_after_15",
+    "description": "meditation_after_15",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great job! Try to remember this moment again during the day. See you tomorrow.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 1,
+        "maxValue": 2,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "I listened to the entire recording",
+                "value": 1
+            },
+            {
+                "name": "I listened to part of the recording",
+                "value": 2
+            }
+        ]
+    }
+}

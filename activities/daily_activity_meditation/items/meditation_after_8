@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_8",
+    "prefLabel": "meditation_after_8",
+    "description": "meditation_after_8",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "How did it feel to just let go of any control and just rest the mind as it is? We hope that it felt good. This is the beginning of a more profound meditation based on anapana with a completely rested mind.\r<br>Today, try to see if you can let go of trying to control what you think from time to time and just come back to anapana meditation throughout the day.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

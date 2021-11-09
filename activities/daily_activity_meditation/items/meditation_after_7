@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_7",
+    "prefLabel": "meditation_after_7",
+    "description": "meditation_after_7",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! This was your first anapana meditation with longer silences. How did that feel? Any new insights? Perhaps thoughts came up during the silences? Did you experience any anxiety or discomfort?\r<br>For today try to see if you can formally practice twice a day. This would be great. Before dinner or bed or even right, see if you can sit for a period of time and focus on your breath. Next session, we will learn how to better rest the mind. ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

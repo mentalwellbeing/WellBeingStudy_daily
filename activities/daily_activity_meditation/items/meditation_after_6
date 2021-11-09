@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_6",
+    "prefLabel": "meditation_after_6",
+    "description": "meditation_after_6",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great, this was your first anapana meditation. And maybe a good point to reflect back on when you started this journey. Has it been easier to focus your attention on your breathing? Is your mind as distractible as it was when you started? \r<br>For today, take a minute to simply reflect on how this meditation practice has changed your day to day. Have you experienced more moments of calmness throughout the day? Has the perception of your breath and mind changed at all?",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

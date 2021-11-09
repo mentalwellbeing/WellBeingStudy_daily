@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_1",
+    "prefLabel": "meditation_after_1",
+    "description": "meditation_after_1",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great, how did you feel? Could you relax your body and let it settle in its natural state without unnecessary fidgeting or moving? Just the movements of the breath. We hope so, if not, don't worry, everything new takes some time to settle.<br><br>For today, you may want to tune into your body and just notice if it is tense, tired, or restless. Just notice how your body is feeling throughout the day. And if you like you could take one or two minutes to consciously let go of all tension and relax for a bit, just letting the movement of the breath be the only movement you experience.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

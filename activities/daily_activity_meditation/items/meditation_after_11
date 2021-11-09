@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_11",
+    "prefLabel": "meditation_after_11",
+    "description": "meditation_after_11",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! How did that feel? Could you settle your body, speech, and mind in its natural state? Could you observe the movements of the breath without giving in to the urge to control it? Was it challenging to just let it be as it is? <br>For today, if you get a chance, try to do a quick body scan from top to bottom relaxing and breathing naturally without controlling, even if just for a couple of minutes.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

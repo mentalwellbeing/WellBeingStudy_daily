@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_4",
+    "prefLabel": "meditation_after_4",
+    "description": "meditation_after_4",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! Was focusing your attention on the breath easier when you counted? Did you lose count at any point? If so, don’t worry, this is perfectly normal, and if you noticed and came back to counting, this is a major step in the right direction. You are right on track! <br><br>For today you could try counting your breaths when you have a chance. Say you are waiting for a light to turn green or your coffee to brew. Just count how many breaths it takes for your coffee to be ready and then check in while counting if you had short or long breaths. As you do this more often, you might find some interesting patterns.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

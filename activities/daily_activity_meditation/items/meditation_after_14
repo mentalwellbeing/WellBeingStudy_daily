@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_14",
+    "prefLabel": "meditation_after_14",
+    "description": "meditation_after_14",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! After settling your body, speech, and mind, could you become aware of the outer shell of your awareness as it anchors on the respiration and the inner shell of your awareness as it observes the movements of the mind? Could you find a nice balance between being aware of the movements of the mind and the movements of the breath?<br><br>For today, if you get a chance, try to do a quick body scan from top to bottom, relaxing and breathing naturally without controlling. Try to become aware of the inner and outer shell of awareness focusing on the movements of the breath and the movements of the mind, knowing you always have an anchor and can focus on the breath. ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

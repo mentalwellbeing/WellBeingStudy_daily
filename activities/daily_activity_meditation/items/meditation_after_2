@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_2",
+    "prefLabel": "meditation_after_2",
+    "description": "meditation_after_2",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great, how did you feel? Although it is very easy to settle the speech outwardly, it is not so easy to do inwardly, that is, the continuous monologue we have with ourselves, or the constant stream of thoughts we have in our minds. We hope that you could relax your body and speech and also have a better glimpse into your mind's stream of thoughts, and similarly just settle all of them slowly with no rush, again just noticing the movements of the breath.<br><br>For today, you may want to tune into your speech, and just notice how often we speak, sometimes even without saying anything important, similarly consciously try to tune into your thoughts, stop and be aware of what you are actually thinking from time to time. And then, just notice if you are tense, tired, or restless. Just notice how your body, speech, and thoughts are making you feel throughout the day. And if you like you could take one or two minutes to consciously let go of all tension and relax for a bit, just settling the body, speech, and mind, just paying attention to the movement of the breath.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}
