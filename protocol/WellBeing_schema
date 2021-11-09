@@ -22,6 +22,7 @@
             "../activities/audio_check/audio_check_schema",
             "../activities/pre/pre_schema",
             "../activities/daily_activity/daily_activity_schema",
+            "../activities/daily_activity_meditation/daily_activity_meditation_schema",
             "../activities/post/post_schema",
             "../activities/feedback/feedback_schema",
             "activity_path:ThankYou/ThankYou_schema"
@@ -45,17 +46,17 @@
             {
                 "isAbout": "../activities/daily_activity/daily_activity_schema",
                 "variableName": "daily_activity",
-                "isVis": "branch === 'journaling'"
+                "isVis": "branch === 'journaling'",
                 "prefLabel": {
-                    "en": "Short Daily activity"
+                    "en": "Short daily activity"
                 }
             },
             {
                 "isAbout": "../activities/daily_activity_meditation/daily_activity_meditation_schema",
                 "variableName": "daily_activity_meditation",
-                "isVis": "branch === 'meditation'"
+                "isVis": "branch === 'meditation'",
                 "prefLabel": {
-                    "en": "Short Daily Meditation"
+                    "en": "Short daily meditation"
                 }
             },
             {
