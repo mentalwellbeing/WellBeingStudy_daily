@@ -2,7 +2,7 @@
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
-            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/6acdca936033f6a4132e183fdb46c61f12f25578/activities/"
+            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/a8de6fb155e97e4e3ac5a9b5f4cc7a080db5aa88/activities/"
         }
     ],
     "@type": "reproschema:Activity",
@@ -14,8 +14,8 @@
     "ui": {
         "addProperties": [
             {
-                "variableName": "LAS",
-                "isAbout": "activity_path:LAS/LAS_schema"
+                "variableName": "DAS",
+                "isAbout": "activity_path:DAS/DAS_schema"
             },
             {
                 "variableName": "free_speech_general_mood",
@@ -23,7 +23,7 @@
             }
         ],
         "order": [
-            "activity_path:LAS/LAS_schema",
+            "activity_path:DAS/DAS_schema",
             "activity_path:VoiceTask/items/free_speech_general_mood"
         ],
         "shuffle": true
