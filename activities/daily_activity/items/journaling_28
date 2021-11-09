@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_28",
+    "prefLabel": "journaling_28",
+    "description": "journaling_28",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Learn to how to identify and re-think inaccurate thoughts<br>1. Read a description of the following cognitive distortion. <br>2. Think of a time when you perceived this distortion in yourself. If you can't think of an example, think of when you perceived someone you know. <br>3. Write where you were, what was said or thought, and what emotions you felt.<br>4. Finally, write how you could view this situation in a more accurate manner. What evidence exists against this thought? A good question to ask is: “Would other people accept my thoughts as true?\" <br><br>Description: Fortune telling refers to the tendency to make conclusions and predictions based on little to no evidence and holding them as gospel truth.<br><br>An example is if a depressed person tells themselves they will never improve; they will continue to be depressed for their whole life.<br>Another example is a young, single woman predicting that she will never find love or have a committed and happy relationship based only on the fact that she has not found it yet. There is simply no way for her to know how her life will turn out, but she sees this prediction as fact rather than one of several possible outcomes.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

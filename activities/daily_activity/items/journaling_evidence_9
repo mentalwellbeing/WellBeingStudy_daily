@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_9",
+    "prefLabel": "journaling_evidence_9",
+    "description": "journaling_evidence_9",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Evidence that it works: Participants who kept a gratitude journal weekly for 10 weeks or daily for two weeks experienced more gratitude, positive moods, optimism about the future, and better sleep [Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life. Journal of Personality and Social Psychology, 84(2), 377-389.]",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

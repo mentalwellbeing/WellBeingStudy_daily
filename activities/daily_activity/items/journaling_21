@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_21",
+    "prefLabel": "journaling_21",
+    "description": "journaling_21",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "1. The following is a list of different values, characteristics, and qualities, some of which may be important to you and some of which may not. Start by ranking them in order of their importance to you:<br>artistic skills/aesthetic appreciation, sense of humor, relations with friends/family, spontaneity/living life in the moment, social skills, athletics, musical ability/appreciation, physical attractiveness, creativity, business/managerial skills, romantic values<br><br>2. Then write accounts (a few paragraphs) of why your top values or qualities are important to you, including a time when they played an important role in your life.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

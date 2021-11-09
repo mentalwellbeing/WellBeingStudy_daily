@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_5",
+    "prefLabel": "journaling_5",
+    "description": "journaling_5",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Think of a person in your life who seems to be very different from you in every way that you can imagine. They might have different interests, different religious or political beliefs, or different life experiences. They may even be someone with whom you have had a personal conflict, or who belongs to a group that has been in conflict with a group to which you belong.<br><br>Next, make a list of all of the things that you most likely share in common with this person. Perhaps you both work for the same company or go to the same school. Maybe you both have children, or a significant other. Probably you have both had your heart broken at one point or another, or have lost a loved one. At the broadest level, you both belong to the human species, which means that you share over 99 percent of your DNA.<br><br>Think of these commonalities. How do they make you see this person in a new light? Instead of simply seeing this person as someone unfamiliar to you, or as a member of an out-group, now try to see this person as an individual, one whose tastes and experiences might overlap with yours in certain ways.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

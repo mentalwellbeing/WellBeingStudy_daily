@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_10",
+    "prefLabel": "journaling_evidence_10",
+    "description": "journaling_evidence_10",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "People tried using a personal strength each day for one week. Compared with those who didn’t try to use a strength—instead they wrote about early memories every day for a week—those who identified and used their strengths reported an increase in happiness and a decrease in symptoms of depression immediately after the one-week experiment, and those changes persisted six months later [Seligman, M. E., Steen, T. A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. American Psychologist, 60(5), 410-421.]<br>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

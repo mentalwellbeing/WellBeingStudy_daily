@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_13",
+    "prefLabel": "journaling_13",
+    "description": "journaling_13",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Go through the following steps.<br>First, think about times when a close friend feels really bad about themself or is really struggling in some way. How do you respond to your friend in these situations (if you’re at your best)? Please write down the issue your friend is facing, what you typically do and say, and note the tone in which you talk to your friend.<br><br>Now think about times when you feel bad about yourself or are struggling. How do you typically respond to yourself in these situations? Please write down what you typically do and say, and note the tone in which you talk to yourself.<br>Did you notice a difference? If so, ask yourself why. What factors or fears come into play that lead you to treat yourself and others so differently?<br><br>Write down how you think things might change if you responded to yourself when you’re suffering in the same way you typically respond to a close friend.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

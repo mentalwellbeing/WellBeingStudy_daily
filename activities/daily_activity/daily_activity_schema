@@ -1,36 +1,354 @@
 {
-  "@context": [
-    "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic"
-  ],
-  "@type": "reproschema:Activity",
-  "@id": "daily_activity_schem",
-  "prefLabel": "daily_activity_schem",
-  "description": "daily_activity_schem",
-  "schemaVersion": "1.0.0-rc4",
-  "version": "0.0.1",
-  "ui": {
-    "addProperties": [
-      {
-        "variableName": "meditation_1",
-        "isAbout": "items/meditation_1",
-        "isVis": "day === '1'"
-      },
-      {
-        "variableName": "meditation_2",
-        "isAbout": "items/meditation_2",
-        "isVis": "day === '2'"
-      },
-      {
-        "variableName": "journaling_1",
-        "isAbout": "items/journaling_1",
-        "isVis": "day === '1'"
-      }
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic"
     ],
-    "order": [
-      "items/meditation_1",
-      "items/meditation_2",
-      "items/journaling_1"
-    ],
-    "shuffle": false
-  }
+    "@type": "reproschema:Activity",
+    "@id": "daily_activity_schema",
+    "prefLabel": "daily_activity_schema",
+    "description": "daily_activity_schema",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "journaling_1",
+                "isAbout": "items/journaling_1",
+                "isVis": "day === '1'"
+            },
+            {
+                "variableName": "journaling_evidence_1",
+                "isAbout": "items/journaling_evidence_1",
+                "isVis": "day === '1'"
+            },
+            {
+                "variableName": "journaling_2",
+                "isAbout": "items/journaling_2",
+                "isVis": "day === '2'"
+            },
+            {
+                "variableName": "journaling_evidence_2",
+                "isAbout": "items/journaling_evidence_2",
+                "isVis": "day === '2'"
+            },
+            {
+                "variableName": "journaling_3",
+                "isAbout": "items/journaling_3",
+                "isVis": "day === '3'"
+            },
+            {
+                "variableName": "journaling_evidence_3",
+                "isAbout": "items/journaling_evidence_3",
+                "isVis": "day === '3'"
+            },
+            {
+                "variableName": "journaling_4",
+                "isAbout": "items/journaling_4",
+                "isVis": "day === '4'"
+            },
+            {
+                "variableName": "journaling_evidence_4",
+                "isAbout": "items/journaling_evidence_4",
+                "isVis": "day === '4'"
+            },
+            {
+                "variableName": "journaling_5",
+                "isAbout": "items/journaling_5",
+                "isVis": "day === '5'"
+            },
+            {
+                "variableName": "journaling_evidence_5",
+                "isAbout": "items/journaling_evidence_5",
+                "isVis": "day === '5'"
+            },
+            {
+                "variableName": "journaling_6",
+                "isAbout": "items/journaling_6",
+                "isVis": "day === '6'"
+            },
+            {
+                "variableName": "journaling_evidence_6",
+                "isAbout": "items/journaling_evidence_6",
+                "isVis": "day === '6'"
+            },
+            {
+                "variableName": "journaling_7",
+                "isAbout": "items/journaling_7",
+                "isVis": "day === '7'"
+            },
+            {
+                "variableName": "journaling_evidence_7",
+                "isAbout": "items/journaling_evidence_7",
+                "isVis": "day === '7'"
+            },
+            {
+                "variableName": "journaling_8",
+                "isAbout": "items/journaling_8",
+                "isVis": "day === '8'"
+            },
+            {
+                "variableName": "journaling_evidence_8",
+                "isAbout": "items/journaling_evidence_8",
+                "isVis": "day === '8'"
+            },
+            {
+                "variableName": "journaling_9",
+                "isAbout": "items/journaling_9",
+                "isVis": "day === '9'"
+            },
+            {
+                "variableName": "journaling_evidence_9",
+                "isAbout": "items/journaling_evidence_9",
+                "isVis": "day === '9'"
+            },
+            {
+                "variableName": "journaling_10",
+                "isAbout": "items/journaling_10",
+                "isVis": "day === '10'"
+            },
+            {
+                "variableName": "journaling_evidence_10",
+                "isAbout": "items/journaling_evidence_10",
+                "isVis": "day === '10'"
+            },
+            {
+                "variableName": "journaling_11",
+                "isAbout": "items/journaling_11",
+                "isVis": "day === '11'"
+            },
+            {
+                "variableName": "journaling_evidence_11",
+                "isAbout": "items/journaling_evidence_11",
+                "isVis": "day === '11'"
+            },
+            {
+                "variableName": "journaling_12",
+                "isAbout": "items/journaling_12",
+                "isVis": "day === '12'"
+            },
+            {
+                "variableName": "journaling_evidence_12",
+                "isAbout": "items/journaling_evidence_12",
+                "isVis": "day === '12'"
+            },
+            {
+                "variableName": "journaling_13",
+                "isAbout": "items/journaling_13",
+                "isVis": "day === '13'"
+            },
+            {
+                "variableName": "journaling_evidence_13",
+                "isAbout": "items/journaling_evidence_13",
+                "isVis": "day === '13'"
+            },
+            {
+                "variableName": "journaling_14",
+                "isAbout": "items/journaling_14",
+                "isVis": "day === '14'"
+            },
+            {
+                "variableName": "journaling_evidence_14",
+                "isAbout": "items/journaling_evidence_14",
+                "isVis": "day === '14'"
+            },
+            {
+                "variableName": "journaling_15",
+                "isAbout": "items/journaling_15",
+                "isVis": "day === '15'"
+            },
+            {
+                "variableName": "journaling_evidence_15",
+                "isAbout": "items/journaling_evidence_15",
+                "isVis": "day === '15'"
+            },
+            {
+                "variableName": "journaling_16",
+                "isAbout": "items/journaling_16",
+                "isVis": "day === '16'"
+            },
+            {
+                "variableName": "journaling_evidence_16",
+                "isAbout": "items/journaling_evidence_16",
+                "isVis": "day === '16'"
+            },
+            {
+                "variableName": "journaling_17",
+                "isAbout": "items/journaling_17",
+                "isVis": "day === '17'"
+            },
+            {
+                "variableName": "journaling_evidence_17",
+                "isAbout": "items/journaling_evidence_17",
+                "isVis": "day === '17'"
+            },
+            {
+                "variableName": "journaling_18",
+                "isAbout": "items/journaling_18",
+                "isVis": "day === '18'"
+            },
+            {
+                "variableName": "journaling_evidence_18",
+                "isAbout": "items/journaling_evidence_18",
+                "isVis": "day === '18'"
+            },
+            {
+                "variableName": "journaling_19",
+                "isAbout": "items/journaling_19",
+                "isVis": "day === '19'"
+            },
+            {
+                "variableName": "journaling_evidence_19",
+                "isAbout": "items/journaling_evidence_19",
+                "isVis": "day === '19'"
+            },
+            {
+                "variableName": "journaling_20",
+                "isAbout": "items/journaling_20",
+                "isVis": "day === '20'"
+            },
+            {
+                "variableName": "journaling_evidence_20",
+                "isAbout": "items/journaling_evidence_20",
+                "isVis": "day === '20'"
+            },
+            {
+                "variableName": "journaling_21",
+                "isAbout": "items/journaling_21",
+                "isVis": "day === '21'"
+            },
+            {
+                "variableName": "journaling_evidence_21",
+                "isAbout": "items/journaling_evidence_21",
+                "isVis": "day === '21'"
+            },
+            {
+                "variableName": "journaling_22",
+                "isAbout": "items/journaling_22",
+                "isVis": "day === '22'"
+            },
+            {
+                "variableName": "journaling_evidence_22",
+                "isAbout": "items/journaling_evidence_22",
+                "isVis": "day === '22'"
+            },
+            {
+                "variableName": "journaling_23",
+                "isAbout": "items/journaling_23",
+                "isVis": "day === '23'"
+            },
+            {
+                "variableName": "journaling_evidence_23",
+                "isAbout": "items/journaling_evidence_23",
+                "isVis": "day === '23'"
+            },
+            {
+                "variableName": "journaling_24",
+                "isAbout": "items/journaling_24",
+                "isVis": "day === '24'"
+            },
+            {
+                "variableName": "journaling_evidence_24",
+                "isAbout": "items/journaling_evidence_24",
+                "isVis": "day === '24'"
+            },
+            {
+                "variableName": "journaling_25",
+                "isAbout": "items/journaling_25",
+                "isVis": "day === '25'"
+            },
+            {
+                "variableName": "journaling_evidence_25",
+                "isAbout": "items/journaling_evidence_25",
+                "isVis": "day === '25'"
+            },
+            {
+                "variableName": "journaling_26",
+                "isAbout": "items/journaling_26",
+                "isVis": "day === '26'"
+            },
+            {
+                "variableName": "journaling_evidence_26",
+                "isAbout": "items/journaling_evidence_26",
+                "isVis": "day === '26'"
+            },
+            {
+                "variableName": "journaling_27",
+                "isAbout": "items/journaling_27",
+                "isVis": "day === '27'"
+            },
+            {
+                "variableName": "journaling_evidence_27",
+                "isAbout": "items/journaling_evidence_27",
+                "isVis": "day === '27'"
+            },
+            {
+                "variableName": "journaling_28",
+                "isAbout": "items/journaling_28",
+                "isVis": "day === '28'"
+            },
+            {
+                "variableName": "journaling_evidence_28",
+                "isAbout": "items/journaling_evidence_28",
+                "isVis": "day === '28'"
+            }
+        ],
+        "order": [
+            "items/journaling_1",
+            "items/journaling_evidence_1",
+            "items/journaling_2",
+            "items/journaling_evidence_2",
+            "items/journaling_3",
+            "items/journaling_evidence_3",
+            "items/journaling_4",
+            "items/journaling_evidence_4",
+            "items/journaling_5",
+            "items/journaling_evidence_5",
+            "items/journaling_6",
+            "items/journaling_evidence_6",
+            "items/journaling_7",
+            "items/journaling_evidence_7",
+            "items/journaling_8",
+            "items/journaling_evidence_8",
+            "items/journaling_9",
+            "items/journaling_evidence_9",
+            "items/journaling_10",
+            "items/journaling_evidence_10",
+            "items/journaling_11",
+            "items/journaling_evidence_11",
+            "items/journaling_12",
+            "items/journaling_evidence_12",
+            "items/journaling_13",
+            "items/journaling_evidence_13",
+            "items/journaling_14",
+            "items/journaling_evidence_14",
+            "items/journaling_15",
+            "items/journaling_evidence_15",
+            "items/journaling_16",
+            "items/journaling_evidence_16",
+            "items/journaling_17",
+            "items/journaling_evidence_17",
+            "items/journaling_18",
+            "items/journaling_evidence_18",
+            "items/journaling_19",
+            "items/journaling_evidence_19",
+            "items/journaling_20",
+            "items/journaling_evidence_20",
+            "items/journaling_21",
+            "items/journaling_evidence_21",
+            "items/journaling_22",
+            "items/journaling_evidence_22",
+            "items/journaling_23",
+            "items/journaling_evidence_23",
+            "items/journaling_24",
+            "items/journaling_evidence_24",
+            "items/journaling_25",
+            "items/journaling_evidence_25",
+            "items/journaling_26",
+            "items/journaling_evidence_26",
+            "items/journaling_27",
+            "items/journaling_evidence_27",
+            "items/journaling_28",
+            "items/journaling_evidence_28"
+        ],
+        "shuffle": false
+    }
 }

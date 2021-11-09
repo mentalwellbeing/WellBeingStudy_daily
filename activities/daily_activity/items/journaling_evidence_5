@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_5",
+    "prefLabel": "journaling_evidence_5",
+    "description": "journaling_evidence_5",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Participants were more likely to help a fallen jogger when the jogger was a fellow fan of the same soccer team than when the jogger was a fan of a rival team (as indicated by their shirt). But when participants were reminded of a shared identity with the fallen rival (being a soccer fan), they were more likely to help than they were to help a non-fan [Levine, M., Prosser, A., Evans, D., & Reicher, S. (2005). Identity and emergency intervention: How social group membership and inclusiveness of group boundaries shape helping behavior. Personality and Social Psychology Bulletin, 31(4), 443-453.]\r<br>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

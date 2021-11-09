@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_18",
+    "prefLabel": "journaling_evidence_18",
+    "description": "journaling_evidence_18",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Evidence that it works: Extraverted behavior has shown to increase positive affect, feelings of connectedness and flow (feelings of being in the zone, fully immersed, energized) [Jacques-Hamilton (2018). Journal of Experimental Psychology; Margolis & Lyubomirsky (2020). Journal of Experimental Psychology: General].",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_27",
+    "prefLabel": "journaling_27",
+    "description": "journaling_27",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Take a moment to imagine your life in the future. What is the best possible life you can imagine regarding your body and health in the next 3 years? Describe what exercises or sports you could start or advance in and any accomplishments you would achieve if anything was possible. Describe what you would eat to nourish yourself and how you would feel. For the next 10 minutes, write continuously about what you imagine this best possible future to be. <br><br>This exercise is most useful when it is very specific—describe specific exercise routines, sports, health, nutrition, accomplishments, and how you would act and feel. <br><br>Be as creative and imaginative as you want. Imagine anything was possible and you would achieve anything you set your mind to.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

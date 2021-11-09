@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_21",
+    "prefLabel": "journaling_evidence_21",
+    "description": "journaling_evidence_21",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "There are benefits of self-affirmation on defensiveness, stress, and performance and a model has been proposed to explain how it works: by increasing our psychological resources, broadening our perspective, and keeping threats separate from our sense of self [Sherman, D. K. (2013). Self-affirmation: Understanding the effects. Social and Personality Psychology Compass, 7(11), 834-45.] <br>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

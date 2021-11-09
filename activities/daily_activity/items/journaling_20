@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_20",
+    "prefLabel": "journaling_20",
+    "description": "journaling_20",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Learn to how to identify and re-think inaccurate thoughts<br>1. Read a description of the following cognitive distortion. <br>2. Think of a time when you perceived this distortion in yourself. If you can't think of an example, think of when you perceived someone you know. <br>3. Write where you were, what was said or thought, and what emotions you felt.<br>4. Finally, write how you could view this situation in a more accurate manner. What evidence exists against this thought? A good question to ask is: “Would other people accept my thoughts as true?\" <br><br>Description: this distortion manifests as an inability to see shades of gray. In other words, you see things in terms of extremes – something is either fantastic or awful, you believe you are either perfect or a total failure.<br><br>Example: A woman eats a spoonful of ice cream. She thinks she is a complete failure for breaking her diet. She becomes so sad that she ends up eating the whole quart of ice cream. Rather than viewing herself as a complete failure for eating a spoonful of ice cream, the woman in the example could still recognize her overall effort to diet as at least a partial success.",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

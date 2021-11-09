@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_3",
+    "prefLabel": "journaling_3",
+    "description": "journaling_3",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Learn to how to identify and re-think inaccurate thoughts<br>1. Read a description of the following cognitive distortion. <br>2. Think of a time when you perceived this distortion in yourself. If you can't think of an example, think of when you perceived someone you know. <br>3. Write where you were, what was said or thought, and what emotions you felt.<br>4. Finally, write how you could view this situation in a more accurate manner. What evidence exists against this thought? A good question to ask is: “Would other people accept my thoughts as true?\" <br><br>Description: this is an inaccurate belief that we know what another person is thinking. Of course, it is possible to have an idea of what other people are thinking, but this distortion refers to the negative interpretations that we jump to.<br><br>Seeing a stranger with an unpleasant expression and jumping to the conclusion that they are thinking something negative about you is an example of this distortion.<br><br>Example: Kevin assumes that because he sits alone at lunch, everyone else must think he is a loser. (This can encourage self-fulfilling prophecy; Kevin may not initiate social contact because of his fear that those around him already perceive him negatively).",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

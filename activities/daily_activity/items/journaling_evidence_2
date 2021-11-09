@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_evidence_2",
+    "prefLabel": "journaling_evidence_2",
+    "description": "journaling_evidence_2",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "In an 8-month long experimental study, individuals who did activities including expressing gratitude reported the greatest boosts to their happiness both immediately post-intervention and 6-months later. Furthermore, the amount of effort that participants applied to the task was directly related to improvements in their subsequent well-being [Lyubomirsky et al. (2011). Becoming happier takes both a will and a proper way: an experimental longitudinal intervention to boost well-being. Emotion, 11(2), 391].",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

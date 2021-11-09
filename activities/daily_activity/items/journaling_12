@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_12",
+    "prefLabel": "journaling_12",
+    "description": "journaling_12",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Try to think of a time when you felt a strong bond with someone in your life. Write about a specific example of an experience you had with this person where you felt especially close and connected to them. This could be a time you had a meaningful conversation, gave or received support, experienced a great loss or success together, or witnessed an historic moment together.<br><br>Once you’ve thought of a specific example, spend up to 10 minutes minutes writing about what happened. In particular, consider the ways in which this experience made you feel close and connected to the other person and what you learned. ",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "journaling_7",
+    "prefLabel": "journaling_7",
+    "description": "journaling_7",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Learn to how to identify and re-think inaccurate thoughts<br>1. Read a description of the following cognitive distortion. <br>2. Think of a time when you perceived this distortion in yourself. If you can't think of an example, think of when you perceived someone you know. <br>3. Write where you were, what was said or thought, and what emotions you felt.<br>4. Finally, write how you could view this situation in a more accurate manner. What evidence exists against this thought? A good question to ask is: “Would other people accept my thoughts as true?\" <br><br>Description: Disqualifying the positive refers to rejecting positive experiences by insisting they \"don't count\" for some reason or other. The negative belief is maintained despite contradiction by everyday experiences. Examples include:<br><br>\"I will never be as good as Jane\"<br>\"Anyone could have done as well\"<br>\"They are just congratulating me to be nice\"",
+    "ui": {
+        "inputType": "textarea"
+    },
+    "responseOptions": {
+        "valueType": "xsd:string",
+        "maxLength": 10000
+    }
+}
