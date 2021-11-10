@@ -67,7 +67,7 @@
                 "prefLabel": {
                     "en": "Short daily meditation"
                 }
-            }
+            },
             {
                 "isAbout": "../activities/post/post_schema",
                 "variableName": "post",
