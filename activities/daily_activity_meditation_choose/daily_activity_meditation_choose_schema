@@ -12,8 +12,7 @@
         "addProperties": [
             {
                 "variableName": "meditation_choose",
-                "isAbout": "items/meditation_choose",
-                "isVis": "day === '15' | day === '16' | day === '17'"
+                "isAbout": "items/meditation_choose"
             },
             {
                 "variableName": "meditation_1",

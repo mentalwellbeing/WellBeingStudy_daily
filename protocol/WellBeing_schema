@@ -63,7 +63,7 @@
             {
                 "isAbout": "../activities/daily_activity_meditation_choose/daily_activity_meditation_choose_schema",
                 "variableName": "daily_activity_meditation_choose",
-                "isVis": "branch === 'meditation'",
+                "isVis": "branch === 'meditation' & (day === '15' | day === '16' | day === '17')",
                 "prefLabel": {
                     "en": "Short daily meditation"
                 }
