@@ -1,0 +1,29 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_13",
+    "prefLabel": "meditation_13",
+    "description": "meditation_13",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "In this session we will be resting the body and speech in their natural state and then become aware of our respiration as it enters and leaves the body without controlling it. Then we will turn our attention to our thoughts and just observe them without controlling them, letting them flow as they come up and fade away. We will oscillate between breath awareness and thought awareness.\r<br>For today, if you get a chance try to do a quick body scan from top to bottom relaxing and breathing naturally without controlling. Try to oscillate between being aware of your breathing and being aware of your thoughts.<br><br>Press play to enjoy today's meditation<br><br> <iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/Bl_QyZptiLI?modestbranding=1&autohide=1&showinfo=0controls=0?modestbranding=1&autohide=1&showinfo=0controls=0\" frameborder=\"0\" \"> </iframe>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 1,
+        "maxValue": 2,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "I listened to the entire recording",
+                "value": 1
+            },
+            {
+                "name": "I listened to part of the recording",
+                "value": 2
+            }
+        ]
+    }
+}

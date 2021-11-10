@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_3",
+    "prefLabel": "meditation_after_3",
+    "description": "meditation_after_3",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great, was focusing your attention on the rise and fall of the abdomen while you are breathing easier than just paying attention to the breath? If so, this is an excellent anchor to help you focus your attention.<br><br>For today you could tune into your breathing pattern from time to time and just notice how your abdomen moves up and down in different situations throughout the day. <br>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

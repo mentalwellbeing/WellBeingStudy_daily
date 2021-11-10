@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_5",
+    "prefLabel": "meditation_after_5",
+    "description": "meditation_after_5",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great, was focusing your attention on the entrance of the nostrils above the upper lip easier than on the abdomen or other places on your body. It may take a while to hold steadfast on this area, but with time you will notice that your attention gets more and more focused and you may even start noticing subtler and subtler sensations.\r<br>For today you could try counting your breaths when you have a chance, try focusing on this small area at the entrance of the nostrils and also check in while counting if they are short or long breaths. ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

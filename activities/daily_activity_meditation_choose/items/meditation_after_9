@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_9",
+    "prefLabel": "meditation_after_9",
+    "description": "meditation_after_9",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! How did that feel? Were you aware of all the tension that was still there in your body? Relaxing is really the most important thing. Relaxing the body and the mind helps with a good meditation session.\r<br>For today, if you get a chance try to do a quick body scan from top to bottom relaxing and breathing naturally without controlling, even if it is just for a couple of minutes.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

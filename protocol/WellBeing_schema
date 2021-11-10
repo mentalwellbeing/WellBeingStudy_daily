@@ -23,6 +23,7 @@
             "../activities/pre/pre_schema",
             "../activities/daily_activity/daily_activity_schema",
             "../activities/daily_activity_meditation/daily_activity_meditation_schema",
+            "../activities/daily_activity_meditation_choose/daily_activity_meditation_choose_schema",
             "../activities/post/post_schema",
             "../activities/feedback/feedback_schema",
             "activity_path:ThankYou/ThankYou_schema"
@@ -59,6 +60,14 @@
                     "en": "Short daily meditation"
                 }
             },
+            {
+                "isAbout": "../activities/daily_activity_meditation_choose/daily_activity_meditation_choose_schema",
+                "variableName": "daily_activity_meditation_choose",
+                "isVis": "branch === 'meditation'",
+                "prefLabel": {
+                    "en": "Short daily meditation"
+                }
+            }
             {
                 "isAbout": "../activities/post/post_schema",
                 "variableName": "post",

@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_12",
+    "prefLabel": "meditation_after_12",
+    "description": "meditation_after_12",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! How did that feel? Could you settle your body, speech, and mind in its natural state? And once settled just observe the movements of the breath without the urge to control it? Could you notice what is left, perhaps stillness and contentment? ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "meditation_after_10",
+    "prefLabel": "meditation_after_10",
+    "description": "meditation_after_10",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Great! How did that feel, were you aware of all the tension that was still there in your body? Relaxing is the most important thing, relaxing the body and the mind helps with a good meditation session. These are challenging tasks, and while it is natural to have thoughts, we can change how we react to them.<br><br>For today, if you get a chance try to do a quick body scan from top to bottom relaxing and breathing naturally without controlling, and if it is just for a couple of minutes.",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Click here to continue",
+                "value": 1
+            }
+        ]
+    }
+}

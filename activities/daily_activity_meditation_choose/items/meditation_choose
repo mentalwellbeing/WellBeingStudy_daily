@@ -1,9 +1,9 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "meditation_15",
-    "prefLabel": "meditation_15",
-    "description": "meditation_15",
+    "@id": "meditation_choose",
+    "prefLabel": "meditation_choose",
+    "description": "meditation_choose",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "question": "Choose any guided meditation",
