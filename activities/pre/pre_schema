@@ -18,13 +18,32 @@
                 "isAbout": "activity_path:DAS/DAS_schema"
             },
             {
-                "variableName": "free_speech_general_mood",
-                "isAbout": "activity_path:VoiceTask/items/free_speech_general_mood"
-            }
+                "variableName": "what_went_well",
+                "isAbout": "items/what_went_well",
+                "isVis": "questions === '1'"
+            },
+            {
+                "variableName": "what_went_well2",
+                "isAbout": "items/what_went_well2",
+                "isVis": "questions === '2'"
+            },
+             {
+                 "variableName": "what_went_well3",
+                 "isAbout": "items/what_went_well3",
+                 "isVis": "questions === '3'"
+             },
+             {
+                 "variableName": "what_went_well4",
+                 "isAbout": "items/what_went_well4",
+                 "isVis": "questions === '4'"
+             }
         ],
         "order": [
             "activity_path:DAS/DAS_schema",
-            "activity_path:VoiceTask/items/free_speech_general_mood"
+              "items/what_went_well",
+              "items/what_went_well2",
+              "items/what_went_well3",
+              "items/what_went_well4"
         ],
         "shuffle": true
     }

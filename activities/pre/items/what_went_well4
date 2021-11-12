@@ -1,0 +1,13 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "what_went_well4",
+    "prefLabel": "what_went_well4",
+    "description": "what_went_well4",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "What went well? 4",
+    "ui": {
+        "inputType": "recording"
+    }
+}
