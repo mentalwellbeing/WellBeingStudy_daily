@@ -46,6 +46,6 @@
               "items/how_are_you_feeling",
               "items/describe_neutrally"
         ],
-        "shuffle": false
+        "shuffle": true
     }
 }

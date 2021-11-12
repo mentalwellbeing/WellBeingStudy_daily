@@ -46,6 +46,6 @@
             "items/how_was_todays_session2",
           "activity_path:DAS/DAS_schema"
         ],
-        "shuffle": false
+        "shuffle": true
     }
 }
