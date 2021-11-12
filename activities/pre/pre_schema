@@ -44,7 +44,7 @@
               "items/how_was_your_day",
               "items/how_are_you_feeling",
               "items/describe_neutrally",
-            "activity_path:DAS/DAS_schema",
+            "activity_path:DAS/DAS_schema"
         ],
         "shuffle": true
     }
