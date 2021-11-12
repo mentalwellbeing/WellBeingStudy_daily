@@ -46,6 +46,6 @@
               "items/describe_neutrally",
             "activity_path:DAS/DAS_schema"
         ],
-        "shuffle": true
+        "shuffle": false
     }
 }
