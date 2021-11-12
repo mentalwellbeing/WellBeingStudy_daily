@@ -18,13 +18,32 @@
                 "isAbout": "activity_path:DAS/DAS_schema"
             },
             {
-                "variableName": "free_speech_general_mood",
-                "isAbout": "activity_path:VoiceTask/items/free_speech_general_mood"
-            }
+                "variableName": "rest_of_your_day",
+                "isAbout": "items/rest_of_your_day",
+                "isVis": "questions === '1'"
+            },
+            {
+                "variableName": "how_was_todays_session",
+                "isAbout": "items/how_was_todays_session",
+                "isVis": "questions === '2'"
+            },
+             {
+                 "variableName": "how_are_you_feeling",
+                 "isAbout": "items/how_are_you_feeling",
+                 "isVis": "questions === '3'"
+             },
+             {
+                 "variableName": "how_was_todays_session2",
+                 "isAbout": "items/how_was_todays_session2",
+                 "isVis": "questions === '4'"
+             }
         ],
         "order": [
             "activity_path:DAS/DAS_schema",
-            "activity_path:VoiceTask/items/free_speech_general_mood"
+              "items/rest_of_your_day",
+              "items/how_was_todays_session",
+              "items/how_are_you_feeling",
+              "items/how_was_todays_session2"
         ],
         "shuffle": true
     }

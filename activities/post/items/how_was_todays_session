@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "what_went_well2",
-    "prefLabel": "what_went_well2",
-    "description": "what_went_well2",
+    "@id": "how_was_todays_session",
+    "prefLabel": "how_was_todays_session",
+    "description": "how_was_todays_session",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What went well? 2",
+    "question": "How was today's session? Did you learn something? What came up?",
     "ui": {
       "inputType": "audioRecord"
     },

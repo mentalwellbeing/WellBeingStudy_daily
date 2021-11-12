@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "what_went_well",
-    "prefLabel": "what_went_well",
-    "description": "what_went_well",
+    "@id": "how_are_you_feeling",
+    "prefLabel": "how_are_you_feeling",
+    "description": "how_are_you_feeling",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What went well today (big or small)? Give as much detail as possible about where you were, what was said, how you felt.",
+    "question": "Tell us how you're feeling, and why you think you feel that way with as much detail as possible.",
     "ui": {
       "inputType": "audioRecord"
     },

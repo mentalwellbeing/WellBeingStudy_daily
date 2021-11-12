@@ -23,27 +23,27 @@
                 "isVis": "questions === '1'"
             },
             {
-                "variableName": "what_went_well2",
-                "isAbout": "items/what_went_well2",
+                "variableName": "how_was_your_day",
+                "isAbout": "items/how_was_your_day",
                 "isVis": "questions === '2'"
             },
              {
-                 "variableName": "what_went_well3",
-                 "isAbout": "items/what_went_well3",
+                 "variableName": "how_are_you_feeling",
+                 "isAbout": "items/how_are_you_feeling",
                  "isVis": "questions === '3'"
              },
              {
-                 "variableName": "what_went_well4",
-                 "isAbout": "items/what_went_well4",
+                 "variableName": "describe_neutrally",
+                 "isAbout": "items/describe_neutrally",
                  "isVis": "questions === '4'"
              }
         ],
         "order": [
             "activity_path:DAS/DAS_schema",
               "items/what_went_well",
-              "items/what_went_well2",
-              "items/what_went_well3",
-              "items/what_went_well4"
+              "items/how_was_your_day",
+              "items/how_are_you_feeling",
+              "items/describe_neutrally"
         ],
         "shuffle": true
     }

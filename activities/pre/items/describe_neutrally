@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "what_went_well3",
-    "prefLabel": "what_went_well3",
-    "description": "what_went_well3",
+    "@id": "describe_neutrally",
+    "prefLabel": "describe_neutrally",
+    "description": "describe_neutrally",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What went well? 3",
+    "question": "Please describe what you've done today just stating the facts and without any emotional description. For instance, 'I woke up, I brushed my teeth, ...' and so on.",
     "ui": {
       "inputType": "audioRecord"
     },

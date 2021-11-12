@@ -1,12 +1,12 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
     "@type": "reproschema:Field",
-    "@id": "what_went_well",
-    "prefLabel": "what_went_well",
-    "description": "what_went_well",
+    "@id": "rest_of_your_day",
+    "prefLabel": "rest_of_your_day",
+    "description": "rest_of_your_day",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "What went well today (big or small)? Give as much detail as possible about where you were, what was said, how you felt.",
+    "question": "How can the rest of your day be a little better? How can you end the day with more wellness?",
     "ui": {
       "inputType": "audioRecord"
     },
