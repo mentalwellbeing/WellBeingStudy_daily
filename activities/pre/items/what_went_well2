@@ -8,6 +8,12 @@
     "version": "0.0.1",
     "question": "What went well? 2",
     "ui": {
-        "inputType": "recording"
+      "inputType": "audioRecord"
+    },
+    "responseOptions": {
+      "valueType": "schema:AudioObject",
+      "minValue": 0,
+      "maxValue": 180000,
+      "multipleChoice": false
     }
 }
