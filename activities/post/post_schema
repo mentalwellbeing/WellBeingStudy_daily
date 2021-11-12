@@ -39,11 +39,11 @@
             }
         ],
         "order": [
-            "activity_path:DAS/DAS_schema",
             "items/rest_of_your_day",
             "items/how_was_todays_session",
             "items/how_are_you_feeling",
-            "items/how_was_todays_session2"
+            "items/how_was_todays_session2",
+          "activity_path:DAS/DAS_schema"
         ],
         "shuffle": true
     }
