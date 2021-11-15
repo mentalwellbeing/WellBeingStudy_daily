@@ -6,7 +6,7 @@
     "description": "meditation_2",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "This session builds on the previous one where we settled the body in its natural state. Here we will continue settling our speech as well as our mind. This will be key for a balanced meditation practice.<br><br>Press play to enjoy today's meditation<br><br> <iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/LqtTCvfo6Ts?modestbranding=1&autohide=1&showinfo=0controls=0?modestbranding=1&autohide=1&showinfo=0controls=0\" frameborder=\"0\" \"> </iframe>",
+    "question": "This session builds on the previous one where we settled the body in its natural state. Here we will continue settling our speech as well as our mind. This will be key for a balanced meditation practice.<br><br>Press play to enjoy today's meditation<br><br> <iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/LqtTCvfo6Ts?modestbranding=1&autohide=1&showinfo=0controls=0?modestbranding=1&autohide=1&showinfo=0controls=0\" frameborder=\"0\" \"> </iframe><br> Or click here if it does not play (and return here when you're done): <br><a href=\"https://www.youtube.com/watch?v=LqtTCvfo6Ts\" target=\"_blank\">https://www.youtube.com/watch?v=LqtTCvfo6Ts</a>",
     "ui": {
         "inputType": "radio"
     },

@@ -149,16 +149,6 @@
                 "variableName": "meditation_after_14",
                 "isAbout": "items/meditation_after_14",
                 "isVis": "day === '14'"
-            },
-            {
-                "variableName": "meditation_15",
-                "isAbout": "items/meditation_15",
-                "isVis": "day === '15' | day === '16' | day === '17'"
-            },
-            {
-                "variableName": "meditation_after_15",
-                "isAbout": "items/meditation_after_15",
-                "isVis": "day === '15' | day === '16' | day === '17'"
             }
         ],
         "order": [
@@ -189,9 +179,7 @@
             "items/meditation_13",
             "items/meditation_after_13",
             "items/meditation_14",
-            "items/meditation_after_14",
-            "items/meditation_15",
-            "items/meditation_after_15"
+            "items/meditation_after_14"
         ],
         "shuffle": false
     }

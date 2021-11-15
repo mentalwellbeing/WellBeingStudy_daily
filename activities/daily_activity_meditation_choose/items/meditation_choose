@@ -17,55 +17,55 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "1. Settling the body",
+                "name": "1. Settling the body (10 min)",
                 "value": 1
             },
             {
-                "name": "2. Settling body speech and mind",
+                "name": "2. Settling body speech and mind (10 min)",
                 "value": 2
             },
             {
-                "name": "3. Breath at the abdomen",
+                "name": "3. Breath at the abdomen (10 min)",
                 "value": 3
             },
             {
-                "name": "4. Breath counting",
+                "name": "4. Breath counting (10 min)",
                 "value": 4
             },
             {
-                "name": "5. Breath at the nostrils",
+                "name": "5. Breath at the nostrils (10 min)",
                 "value": 5
             },
             {
-                "name": "6. Anapana",
+                "name": "6. Anapana (10 min)",
                 "value": 6
             },
             {
-                "name": "7. Anapana (long silence)",
+                "name": "7. Anapana long silence (10 min)",
                 "value": 7
             },
             {
-                "name": "8. Rest the mind",
+                "name": "8. Rest the mind (10 min)",
                 "value": 8
             },
             {
-                "name": "9. Rest the body and mind",
+                "name": "9. Balancing attention (10 min)",
                 "value": 9
             },
             {
-                "name": "10. Rest the body and mind (long)",
+                "name": "10. Rest the body (15 min)",
                 "value": 10
             },
             {
-                "name": "11. Rest the body and notice your breath",
+                "name": "11. Rest the body and notice your breath (10 min)",
                 "value": 11
             },
             {
-                "name": "12. Discovering stillness",
+                "name": "12. Discovering stillness (12 min)",
                 "value": 12
             },
             {
-                "name": "13. Rest in the natural state and notice your breath and thoughts",
+                "name": "13. Notice your breath and thoughts (15 min)",
                 "value": 13
             },
             {
