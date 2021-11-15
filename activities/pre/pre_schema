@@ -40,12 +40,12 @@
              }
         ],
         "order": [
-                "activity_path:DAS/DAS_schema",
               "items/what_went_well",
               "items/how_was_your_day",
               "items/how_are_you_feeling",
-              "items/describe_neutrally"
+              "items/describe_neutrally",
+              "activity_path:DAS/DAS_schema"
         ],
-        "shuffle": true
+        "shuffle": false
     }
 }
