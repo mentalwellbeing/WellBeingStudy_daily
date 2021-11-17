@@ -16,8 +16,8 @@
                 "isVis": "day === '1'"
             },
             {
-                "variableName": "journaling_evidence_1",
-                "isAbout": "items/journaling_evidence_1",
+                "variableName": "journaling_after_1",
+                "isAbout": "items/journaling_after_1",
                 "isVis": "day === '1'"
             },
             {
@@ -26,8 +26,8 @@
                 "isVis": "day === '2'"
             },
             {
-                "variableName": "journaling_evidence_2",
-                "isAbout": "items/journaling_evidence_2",
+                "variableName": "journaling_after_2",
+                "isAbout": "items/journaling_after_2",
                 "isVis": "day === '2'"
             },
             {
@@ -36,8 +36,8 @@
                 "isVis": "day === '3'"
             },
             {
-                "variableName": "journaling_evidence_3",
-                "isAbout": "items/journaling_evidence_3",
+                "variableName": "journaling_after_3",
+                "isAbout": "items/journaling_after_3",
                 "isVis": "day === '3'"
             },
             {
@@ -46,8 +46,8 @@
                 "isVis": "day === '4'"
             },
             {
-                "variableName": "journaling_evidence_4",
-                "isAbout": "items/journaling_evidence_4",
+                "variableName": "journaling_after_4",
+                "isAbout": "items/journaling_after_4",
                 "isVis": "day === '4'"
             },
             {
@@ -56,8 +56,8 @@
                 "isVis": "day === '5'"
             },
             {
-                "variableName": "journaling_evidence_5",
-                "isAbout": "items/journaling_evidence_5",
+                "variableName": "journaling_after_5",
+                "isAbout": "items/journaling_after_5",
                 "isVis": "day === '5'"
             },
             {
@@ -66,8 +66,8 @@
                 "isVis": "day === '6'"
             },
             {
-                "variableName": "journaling_evidence_6",
-                "isAbout": "items/journaling_evidence_6",
+                "variableName": "journaling_after_6",
+                "isAbout": "items/journaling_after_6",
                 "isVis": "day === '6'"
             },
             {
@@ -76,8 +76,8 @@
                 "isVis": "day === '7'"
             },
             {
-                "variableName": "journaling_evidence_7",
-                "isAbout": "items/journaling_evidence_7",
+                "variableName": "journaling_after_7",
+                "isAbout": "items/journaling_after_7",
                 "isVis": "day === '7'"
             },
             {
@@ -86,8 +86,8 @@
                 "isVis": "day === '8'"
             },
             {
-                "variableName": "journaling_evidence_8",
-                "isAbout": "items/journaling_evidence_8",
+                "variableName": "journaling_after_8",
+                "isAbout": "items/journaling_after_8",
                 "isVis": "day === '8'"
             },
             {
@@ -96,8 +96,8 @@
                 "isVis": "day === '9'"
             },
             {
-                "variableName": "journaling_evidence_9",
-                "isAbout": "items/journaling_evidence_9",
+                "variableName": "journaling_after_9",
+                "isAbout": "items/journaling_after_9",
                 "isVis": "day === '9'"
             },
             {
@@ -106,8 +106,8 @@
                 "isVis": "day === '10'"
             },
             {
-                "variableName": "journaling_evidence_10",
-                "isAbout": "items/journaling_evidence_10",
+                "variableName": "journaling_after_10",
+                "isAbout": "items/journaling_after_10",
                 "isVis": "day === '10'"
             },
             {
@@ -116,8 +116,8 @@
                 "isVis": "day === '11'"
             },
             {
-                "variableName": "journaling_evidence_11",
-                "isAbout": "items/journaling_evidence_11",
+                "variableName": "journaling_after_11",
+                "isAbout": "items/journaling_after_11",
                 "isVis": "day === '11'"
             },
             {
@@ -126,8 +126,8 @@
                 "isVis": "day === '12'"
             },
             {
-                "variableName": "journaling_evidence_12",
-                "isAbout": "items/journaling_evidence_12",
+                "variableName": "journaling_after_12",
+                "isAbout": "items/journaling_after_12",
                 "isVis": "day === '12'"
             },
             {
@@ -136,8 +136,8 @@
                 "isVis": "day === '13'"
             },
             {
-                "variableName": "journaling_evidence_13",
-                "isAbout": "items/journaling_evidence_13",
+                "variableName": "journaling_after_13",
+                "isAbout": "items/journaling_after_13",
                 "isVis": "day === '13'"
             },
             {
@@ -146,8 +146,8 @@
                 "isVis": "day === '14'"
             },
             {
-                "variableName": "journaling_evidence_14",
-                "isAbout": "items/journaling_evidence_14",
+                "variableName": "journaling_after_14",
+                "isAbout": "items/journaling_after_14",
                 "isVis": "day === '14'"
             },
             {
@@ -156,8 +156,8 @@
                 "isVis": "day === '15'"
             },
             {
-                "variableName": "journaling_evidence_15",
-                "isAbout": "items/journaling_evidence_15",
+                "variableName": "journaling_after_15",
+                "isAbout": "items/journaling_after_15",
                 "isVis": "day === '15'"
             },
             {
@@ -166,8 +166,8 @@
                 "isVis": "day === '16'"
             },
             {
-                "variableName": "journaling_evidence_16",
-                "isAbout": "items/journaling_evidence_16",
+                "variableName": "journaling_after_16",
+                "isAbout": "items/journaling_after_16",
                 "isVis": "day === '16'"
             },
             {
@@ -176,8 +176,8 @@
                 "isVis": "day === '17'"
             },
             {
-                "variableName": "journaling_evidence_17",
-                "isAbout": "items/journaling_evidence_17",
+                "variableName": "journaling_after_17",
+                "isAbout": "items/journaling_after_17",
                 "isVis": "day === '17'"
             },
             {
@@ -186,8 +186,8 @@
                 "isVis": "day === '18'"
             },
             {
-                "variableName": "journaling_evidence_18",
-                "isAbout": "items/journaling_evidence_18",
+                "variableName": "journaling_after_18",
+                "isAbout": "items/journaling_after_18",
                 "isVis": "day === '18'"
             },
             {
@@ -196,8 +196,8 @@
                 "isVis": "day === '19'"
             },
             {
-                "variableName": "journaling_evidence_19",
-                "isAbout": "items/journaling_evidence_19",
+                "variableName": "journaling_after_19",
+                "isAbout": "items/journaling_after_19",
                 "isVis": "day === '19'"
             },
             {
@@ -206,8 +206,8 @@
                 "isVis": "day === '20'"
             },
             {
-                "variableName": "journaling_evidence_20",
-                "isAbout": "items/journaling_evidence_20",
+                "variableName": "journaling_after_20",
+                "isAbout": "items/journaling_after_20",
                 "isVis": "day === '20'"
             },
             {
@@ -216,8 +216,8 @@
                 "isVis": "day === '21'"
             },
             {
-                "variableName": "journaling_evidence_21",
-                "isAbout": "items/journaling_evidence_21",
+                "variableName": "journaling_after_21",
+                "isAbout": "items/journaling_after_21",
                 "isVis": "day === '21'"
             },
             {
@@ -226,8 +226,8 @@
                 "isVis": "day === '22'"
             },
             {
-                "variableName": "journaling_evidence_22",
-                "isAbout": "items/journaling_evidence_22",
+                "variableName": "journaling_after_22",
+                "isAbout": "items/journaling_after_22",
                 "isVis": "day === '22'"
             },
             {
@@ -236,8 +236,8 @@
                 "isVis": "day === '23'"
             },
             {
-                "variableName": "journaling_evidence_23",
-                "isAbout": "items/journaling_evidence_23",
+                "variableName": "journaling_after_23",
+                "isAbout": "items/journaling_after_23",
                 "isVis": "day === '23'"
             },
             {
@@ -246,8 +246,8 @@
                 "isVis": "day === '24'"
             },
             {
-                "variableName": "journaling_evidence_24",
-                "isAbout": "items/journaling_evidence_24",
+                "variableName": "journaling_after_24",
+                "isAbout": "items/journaling_after_24",
                 "isVis": "day === '24'"
             },
             {
@@ -256,8 +256,8 @@
                 "isVis": "day === '25'"
             },
             {
-                "variableName": "journaling_evidence_25",
-                "isAbout": "items/journaling_evidence_25",
+                "variableName": "journaling_after_25",
+                "isAbout": "items/journaling_after_25",
                 "isVis": "day === '25'"
             },
             {
@@ -266,8 +266,8 @@
                 "isVis": "day === '26'"
             },
             {
-                "variableName": "journaling_evidence_26",
-                "isAbout": "items/journaling_evidence_26",
+                "variableName": "journaling_after_26",
+                "isAbout": "items/journaling_after_26",
                 "isVis": "day === '26'"
             },
             {
@@ -276,8 +276,8 @@
                 "isVis": "day === '27'"
             },
             {
-                "variableName": "journaling_evidence_27",
-                "isAbout": "items/journaling_evidence_27",
+                "variableName": "journaling_after_27",
+                "isAbout": "items/journaling_after_27",
                 "isVis": "day === '27'"
             },
             {
@@ -286,68 +286,68 @@
                 "isVis": "day === '28'"
             },
             {
-                "variableName": "journaling_evidence_28",
-                "isAbout": "items/journaling_evidence_28",
+                "variableName": "journaling_after_28",
+                "isAbout": "items/journaling_after_28",
                 "isVis": "day === '28'"
             }
         ],
         "order": [
             "items/journaling_1",
-            "items/journaling_evidence_1",
+            "items/journaling_after_1",
             "items/journaling_2",
-            "items/journaling_evidence_2",
+            "items/journaling_after_2",
             "items/journaling_3",
-            "items/journaling_evidence_3",
+            "items/journaling_after_3",
             "items/journaling_4",
-            "items/journaling_evidence_4",
+            "items/journaling_after_4",
             "items/journaling_5",
-            "items/journaling_evidence_5",
+            "items/journaling_after_5",
             "items/journaling_6",
-            "items/journaling_evidence_6",
+            "items/journaling_after_6",
             "items/journaling_7",
-            "items/journaling_evidence_7",
+            "items/journaling_after_7",
             "items/journaling_8",
-            "items/journaling_evidence_8",
+            "items/journaling_after_8",
             "items/journaling_9",
-            "items/journaling_evidence_9",
+            "items/journaling_after_9",
             "items/journaling_10",
-            "items/journaling_evidence_10",
+            "items/journaling_after_10",
             "items/journaling_11",
-            "items/journaling_evidence_11",
+            "items/journaling_after_11",
             "items/journaling_12",
-            "items/journaling_evidence_12",
+            "items/journaling_after_12",
             "items/journaling_13",
-            "items/journaling_evidence_13",
+            "items/journaling_after_13",
             "items/journaling_14",
-            "items/journaling_evidence_14",
+            "items/journaling_after_14",
             "items/journaling_15",
-            "items/journaling_evidence_15",
+            "items/journaling_after_15",
             "items/journaling_16",
-            "items/journaling_evidence_16",
+            "items/journaling_after_16",
             "items/journaling_17",
-            "items/journaling_evidence_17",
+            "items/journaling_after_17",
             "items/journaling_18",
-            "items/journaling_evidence_18",
+            "items/journaling_after_18",
             "items/journaling_19",
-            "items/journaling_evidence_19",
+            "items/journaling_after_19",
             "items/journaling_20",
-            "items/journaling_evidence_20",
+            "items/journaling_after_20",
             "items/journaling_21",
-            "items/journaling_evidence_21",
+            "items/journaling_after_21",
             "items/journaling_22",
-            "items/journaling_evidence_22",
+            "items/journaling_after_22",
             "items/journaling_23",
-            "items/journaling_evidence_23",
+            "items/journaling_after_23",
             "items/journaling_24",
-            "items/journaling_evidence_24",
+            "items/journaling_after_24",
             "items/journaling_25",
-            "items/journaling_evidence_25",
+            "items/journaling_after_25",
             "items/journaling_26",
-            "items/journaling_evidence_26",
+            "items/journaling_after_26",
             "items/journaling_27",
-            "items/journaling_evidence_27",
+            "items/journaling_after_27",
             "items/journaling_28",
-            "items/journaling_evidence_28"
+            "items/journaling_after_28"
         ],
         "shuffle": false
     }
