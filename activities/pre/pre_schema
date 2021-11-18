@@ -2,7 +2,7 @@
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
         {
-            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/22918df2ec481c0f826cbab56bd783ee96172fab/activities/"
+            "activity_path": "https://raw.githubusercontent.com/danielmlow/reproschema-library/1469474feb1ea6cc22c52900f66db1ffbe2aea4f/activities/"
         }
     ],
     "@type": "reproschema:Activity",
@@ -16,7 +16,7 @@
             {
                 "variableName": "DAS",
                 "isAbout": "activity_path:DAS/DAS_schema",
-                "isVis": true
+                "isVis": "questions === '1' | questions === '3'"
             },
             {
                 "variableName": "what_went_well",
@@ -37,14 +37,20 @@
                  "variableName": "describe_neutrally",
                  "isAbout": "items/describe_neutrally",
                  "isVis": "questions === '4'"
+             },
+             {
+                 "variableName": "DAS_copy",
+                 "isAbout": "activity_path:DAS_copy/DAS_copy_schema",
+                 "isVis": "questions === '2' | questions === '4'"
              }
         ],
         "order": [
+              "activity_path:DAS/DAS_schema"
               "items/what_went_well",
               "items/how_was_your_day",
               "items/how_are_you_feeling",
               "items/describe_neutrally",
-              "activity_path:DAS/DAS_schema"
+              "activity_path:DAS_copy/DAS_copy_schema"
         ],
         "shuffle": false
     }
