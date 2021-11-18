@@ -16,7 +16,7 @@
         {
           "variableName": "DAS",
           "isAbout": "activity_path:DAS/DAS_schema",
-          "isVis": "questions === '1' | questions === '3'"
+          "isVis": "questions === '1' || questions === '3'"
         },
         {
           "variableName": "what_went_well",
@@ -41,7 +41,7 @@
         {
           "variableName": "DAS_copy",
           "isAbout": "activity_path:DAS_copy/DAS_copy_schema",
-          "isVis": "questions === '2' | questions === '4'"
+          "isVis": "questions === '2' || questions === '4'"
         }
       ],
       "order": [
