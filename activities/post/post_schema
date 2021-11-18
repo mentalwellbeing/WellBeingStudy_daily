@@ -12,40 +12,46 @@
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "ui": {
-        "addProperties": [
-            {
-                "variableName": "DAS",
-                "isAbout": "activity_path:DAS/DAS_schema",
-              "isVis": true
-            },
-            {
-                "variableName": "rest_of_your_day",
-                "isAbout": "items/rest_of_your_day",
-                "isVis": "questions === '1'"
-            },
-            {
-                "variableName": "how_was_todays_session",
-                "isAbout": "items/how_was_todays_session",
-                "isVis": "questions === '2'"
-            },
-            {
-               "variableName": "how_are_you_feeling",
-               "isAbout": "items/how_are_you_feeling",
-               "isVis": "questions === '3'"
-            },
-            {
-               "variableName": "how_was_todays_session2",
-               "isAbout": "items/how_was_todays_session2",
-               "isVis": "questions === '4'"
-            }
-        ],
-        "order": [
-            "items/rest_of_your_day",
-            "items/how_was_todays_session",
-            "items/how_are_you_feeling",
-            "items/how_was_todays_session2",
-          "activity_path:DAS/DAS_schema"
-        ],
-        "shuffle": false
+      "addProperties": [
+        {
+          "variableName": "DAS",
+          "isAbout": "activity_path:DAS/DAS_schema",
+          "isVis": "questions === '1' | questions === '3'"
+        },
+        {
+          "variableName": "what_went_well",
+          "isAbout": "items/what_went_well",
+          "isVis": "questions === '1'"
+        },
+        {
+          "variableName": "how_was_your_day",
+          "isAbout": "items/how_was_your_day",
+          "isVis": "questions === '2'"
+        },
+        {
+          "variableName": "how_are_you_feeling",
+          "isAbout": "items/how_are_you_feeling",
+          "isVis": "questions === '3'"
+        },
+        {
+          "variableName": "describe_neutrally",
+          "isAbout": "items/describe_neutrally",
+          "isVis": "questions === '4'"
+        },
+        {
+          "variableName": "DAS_copy",
+          "isAbout": "activity_path:DAS_copy/DAS_copy_schema",
+          "isVis": "questions === '2' | questions === '4'"
+        }
+      ],
+      "order": [
+        "activity_path:DAS/DAS_schema",
+        "items/what_went_well",
+        "items/how_was_your_day",
+        "items/how_are_you_feeling",
+        "items/describe_neutrally",
+        "activity_path:DAS_copy/DAS_copy_schema"
+      ],
+      "shuffle": false
     }
 }
