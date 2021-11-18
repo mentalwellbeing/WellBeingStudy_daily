@@ -16,7 +16,7 @@
         {
           "variableName": "DAS",
           "isAbout": "activity_path:DAS/DAS_schema",
-          "isVis": "questions === '1' || questions === '3'"
+          "isVis": true
         },
         {
           "variableName": "what_went_well",
@@ -37,20 +37,14 @@
           "variableName": "describe_neutrally",
           "isAbout": "items/describe_neutrally",
           "isVis": "questions === '4'"
-        },
-        {
-          "variableName": "DAS_copy",
-          "isAbout": "activity_path:DAS_copy/DAS_copy_schema",
-          "isVis": "questions === '2' || questions === '4'"
         }
       ],
       "order": [
-        "activity_path:DAS/DAS_schema",
         "items/what_went_well",
         "items/how_was_your_day",
         "items/how_are_you_feeling",
         "items/describe_neutrally",
-        "activity_path:DAS_copy/DAS_copy_schema"
+        "activity_path:DAS/DAS_schema"
       ],
       "shuffle": false
     }
