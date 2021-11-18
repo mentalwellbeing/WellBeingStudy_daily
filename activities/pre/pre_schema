@@ -45,7 +45,7 @@
              }
         ],
         "order": [
-              "activity_path:DAS/DAS_schema"
+              "activity_path:DAS/DAS_schema",
               "items/what_went_well",
               "items/how_was_your_day",
               "items/how_are_you_feeling",
