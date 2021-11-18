@@ -14,11 +14,6 @@
     "ui": {
       "addProperties": [
         {
-          "variableName": "DAS",
-          "isAbout": "activity_path:DAS/DAS_schema",
-          "isVis": true
-        },
-        {
           "variableName": "what_went_well",
           "isAbout": "items/what_went_well",
           "isVis": "questions === '1'"
@@ -37,6 +32,11 @@
           "variableName": "describe_neutrally",
           "isAbout": "items/describe_neutrally",
           "isVis": "questions === '4'"
+        },
+        {
+          "variableName": "DAS",
+          "isAbout": "activity_path:DAS/DAS_schema",
+          "isVis": true
         }
       ],
       "order": [
