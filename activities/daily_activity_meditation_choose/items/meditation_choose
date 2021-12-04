@@ -6,7 +6,7 @@
     "description": "meditation_choose",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Choose any guided meditation",
+    "question": "For the rest of the challenge, choose any guided meditation. Some people find it useful to repeat guided meditations to remember the insights that each one teaches. You can either repeat the full series from the beginning or choose the ones you would like to practice. You can even do the same one every day. We expect more changes to occur the more you meditate.<br><br>Important: the platform does not allow changing your choice after you click on one. Simply enjoy the meditation you chose.",
     "ui": {
         "inputType": "radio"
     },
